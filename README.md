@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bone89923
+- 👋 Hi, I’m @Cristian Ostapowicz
 - How to reach me: Discord user @Shadow Demon#1110
 - I'm currently working on the Harvard coding course
 
