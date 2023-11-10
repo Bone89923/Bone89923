@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cristian Ostapowicz
-- How to reach me: Discord user @Shadow Demon#1110
-- I'm currently working on the Harvard coding course
+- I'm Working in the Extra curricular course 100 devs. 
 
 <!---
 Bone89923/Bone89923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
